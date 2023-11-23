@@ -12,7 +12,7 @@ Dive into the world of entertainment with this React Netflix Clone, a project th
 
 ## Live Demo:
 
-Explore the live demo of the React Netflix Clone: [Live Demo](https://your-username.github.io/react-netflix-clone)
+Explore the live demo of the React Netflix Clone: [Live Demo](https://jamshibkl.github.io/React-Netflix-Clone)
 
 ## How to Use:
 

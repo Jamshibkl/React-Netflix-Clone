@@ -5,7 +5,6 @@ import './components/NavBar/NavBar.css'
 import './App.css'
 import Banner from "./components/Banner/Banner";
 import RowPost from "./components/RowPost/RowPost";
-
 function App() {
   return (
     <div className="App">
@@ -15,6 +14,8 @@ function App() {
       <RowPost url={action} title='Action' isSmall/>
       <RowPost url={trending} title='Trending' isSmall/>
       <RowPost url={ComedyMovies} title='Comedy Movies' isSmall/>
+      
+       
     </div>
   );
 }

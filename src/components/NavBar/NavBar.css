@@ -19,3 +19,22 @@
     right: 20px;
     width: 30px;
 }
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    position: absolute;
+    left: 150px;   
+}
+li{
+    display: inline-block;
+    margin: 20px;
+}
+li,a{
+    color: #fff;
+}
+a:hover{
+    color: antiquewhite;
+}

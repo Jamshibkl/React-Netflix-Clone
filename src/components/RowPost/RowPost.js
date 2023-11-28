@@ -18,7 +18,7 @@ function RowPost(props) {
     height: '390',
     width: '100%',
     playerVars: {
-      // https://developers.google.com/youtube/player_parameters
+      // "https://developers.google.com/youtube/player_parameters"
       autoplay: 1,
     },
   }

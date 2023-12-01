@@ -1,12 +1,11 @@
 import React from 'react'
 
-function Blogs() {
+function Kids() {
   return (
     <div>
-      <h1>Blogs</h1>
-
+      <h1>Kids</h1>
     </div>
   )
 }
 
-export default Blogs
+export default Kids

@@ -4,7 +4,7 @@ Dive into the world of entertainment with this React Netflix Clone, a project th
 
 ## Key Features:
 
-- **React.js Frontend:** Harness the power of React to build a responsive and interactive user interface.
+- **React.js Frontend:** Harness the power  React to build a responsive and interactive user interface.
 - **Movie Database Integration:** Utilize a movie database API (e.g., TMDb) to fetch and display real movie data.
 - **Dynamic Content Rendering:** Implement dynamic content rendering for movie categories, popular titles, and detailed information.
 - **User Authentication:** Provide a user authentication system to personalize the viewing experience.

@@ -10,6 +10,7 @@ function NavbarWithoutUser() {
       handleShow(false);
     }
   };
+  
 
   useEffect(() => {
     window.addEventListener("scroll", transitionNavBar);
@@ -32,11 +33,18 @@ function NavbarWithoutUser() {
             alt="NETFLIX"
           />
         </div>
+        <div className="drp mr-5 ml-5 mt-5 border border-light">
+          <select className="form-select bg-transparent text-white">
+      <option value="english" style={{ color: 'black' }}>English</option>
+      <option value="hindi" style={{ color: 'black' }}>हिन्दी</option>
+    </select>
+          </div>
 
         <div>
+         
           <Link to="/signin">
-            <button className="bg-red-600 px-8 rounded-sm py-2 text-white text-base font-bold mr-4 lg:mr-0">
-              Login
+          - <button className="bg-red-600 px-6 rounded-sm py-2 text-white text-base font-bold mr-4 lg:mr-6">
+              Sign in
             </button>
           </Link>
         </div>
